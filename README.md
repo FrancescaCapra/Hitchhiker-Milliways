@@ -33,3 +33,6 @@ Milliways, also known as The Restaurant at the End of the Universe, is an imagin
 1. Clone the repository:
    ```sh
    git clone https://github.com/FrancescaCapra/Milliways.git
+
+### Acknowledgements
+Inspired by Douglas Adams' "Hitchhiker's Guide to the Galaxy".
